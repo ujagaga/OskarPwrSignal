@@ -4,7 +4,7 @@ Namenjeno da aktivira PWR_OK pin pri startu i de-activira ga kad pada napon napa
 Koristio sam:
 - optokapler da bi se detektovao napon mreze
 - ATtiny85 Digispark modul za svu logiku (izlaz je na B1 pinu)
-- sopstveno napajanje od 5V odakle sam izvukao i 220 za optokapler
+- Napajanje od 5V (najjeftiniji punjač za telefon) odakle sam izvukao i 220 za optokapler
 - Arduino IDE za programiranje modula.
 
 Napomena:
